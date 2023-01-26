@@ -9,7 +9,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1153395982 - NamedType 2264159998" translate="yes" size-unit="char" xml:space="preserve">
           <source>Overdelivery is not allowed for %1 %2.</source>
-          <target>Overweergave is niet toegestaan ​​voor %1 %2.</target>
+          <target>Overweergave is niet toegestaan voor %1 %2.</target>
         </trans-unit>
         <trans-unit id="Codeunit 1153395982 - NamedType 4228081178" translate="yes" size-unit="char" xml:space="preserve">
           <source>Warning!\The entered quantity results in an overdelivery.\Do you want to continue?</source>
@@ -45,15 +45,15 @@
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 1037119892 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Item Category Code" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Rubriekscode van objecten.</target>
+          <target>Hiermee geeft u de waarde op van het veld "Artikel Categorie Code".</target>
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 1491066990 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Tolerance Value" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Tolerantiewaarde.</target>
+          <target>Hiermee geeft u de waarde op van het veld  'Tolerantiewaarde".</target>
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 1753214751 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Source Type" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Brontype.</target>
+          <target>Hiermee geeft u de waarde op van het veld "Brontype".</target>
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 1878130204 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Type" field.</source>
@@ -61,23 +61,23 @@
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 1882905478 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Source No." field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Bronn.'</target>
+          <target>Hiermee geeft u de waarde op van het veld "Bronnummer".'</target>
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 2423138419 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Tolerance Type" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Tolerantietype.</target>
+          <target>Hiermee geeft u de waarde op van het veld "Tolerantietype".</target>
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 3330051323 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies whether a confirmation dialog is shown when an overdelivery is about to occur, letting the user decide if this is accepted.</source>
-          <target>Geeft aan of een bevestigingsdialoogvenster wordt getoond wanneer een overdelivery staat te gebeuren, zodat de gebruiker beslissen of dit wordt geaccepteerd.</target>
+          <target>Geeft aan of een bevestigingsdialoogvenster wordt getoond wanneer een overdelivery staat te gebeuren, zodat de gebruiker kan beslissen of dit wordt geaccepteerd.</target>
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 3450651614 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Variant Code" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Variantcode.</target>
+          <target>Hiermee geeft u de waarde op van het veld "Variantcode".</target>
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 3543129988 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Disables this setup line. Disabled lines are always excluded when looking for matching setup lines.</source>
-          <target>Schakelt deze opstelling lijn. Lichamelijke lijnen zijn altijd uitgesloten bij het zoeken naar bijpassende setup lijnen.</target>
+          <target>Schakelt deze set-up lijn uit. Uitgeschakelde lijnen zijn altijd uitgesloten bij het zoeken naar bijpassende setup lijnen.</target>
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 39585143 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Direction" field.</source>
@@ -85,43 +85,43 @@
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 4130293374 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the priority for this setup line. When multiple setup lines match, the one with the highest priority wins.</source>
-          <target>Kunt u de prioriteit voor deze opstelling lijn. Wanneer meerdere setup lijnen overeenkomen, degene met de hoogste prioriteit wint.</target>
+          <target>Specificeert de prioriteit voor deze set-up lijn. Wanneer meerdere setup lijnen overeenkomen, degene met de hoogste prioriteit krijgt de voorkeur.</target>
         </trans-unit>
         <trans-unit id="Page 2762525860 - Control 568743302 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Item No." field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Item nee.</target>
+          <target>Hiermee geeft u de waarde op van het veld 'Artikelnummer'.</target>
         </trans-unit>
         <trans-unit id="Page 2762525860 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup (OVR)</source>
-          <target>Over-/Onderweergave Setup (OVR)</target>
+          <target>Over-/Onderlevering Setup (OVR)</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Control 1037119892 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Item Category Code" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Rubriekscode van objecten.</target>
+          <target>Hiermee geeft u de waarde op van het veld'Artikel Categorie Code'.</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Control 1491066990 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Tolerance Value" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Tolerantiewaarde.</target>
+          <target>Hiermee geeft u de waarde op van het veld 'Tolerantiewaarde'.</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Control 1753214751 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Source Type" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Brontype.</target>
+          <target>Hiermee geeft u de waarde op van het veld 'Brontype'.</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Control 1878130204 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Type" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Type.</target>
+          <target>Hiermee geeft u de waarde op van het veld 'Type'.</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Control 1882905478 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Source No." field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Bronn.'</target>
+          <target>Hiermee geeft u de waarde op van het veld 'Bronnummer'.'</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Control 2423138419 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Tolerance Type" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Tolerantietype.</target>
+          <target>Hiermee geeft u de waarde op van het veld 'Tolerantietype'.</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Control 3450651614 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Variant Code" field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Variantcode.</target>
+          <target>Hiermee geeft u de waarde op van het veld 'Variantcode'.</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Control 39585143 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Direction" field.</source>
@@ -129,19 +129,19 @@
         </trans-unit>
         <trans-unit id="Page 3369480207 - Control 568743302 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Item No." field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Item nee.</target>
+          <target>Hiermee geeft u de waarde op van het veld 'Artikelnummer'.</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Control 883711285 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the value of the "Entry No." field.</source>
-          <target>Hiermee geeft u de waarde op van het veld Item No.</target>
+          <target>Hiermee geeft u de waarde op van het veld 'Artikelnummer'.</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Method 4030020416 - NamedType 3063526182" translate="yes" size-unit="char" xml:space="preserve">
           <source>No valid over-/underdelivery setup lines exist for the selected document line.</source>
-          <target>Geen geldige over-/underdelivery setup lijnen bestaan ​​voor de geselecteerde document lijn.</target>
+          <target>Geen geldige over-/onderlevering setup lijnen bestaan voor de geselecteerde document lijn.</target>
         </trans-unit>
         <trans-unit id="Page 3369480207 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Applicable Over-/Underdelivery Setup Lines</source>
-          <target>Toepasselijk Over-/Onderweergave Setup Lijnen</target>
+          <target>Toepasselijk Over-/Onderlevering Setup Lijnen</target>
         </trans-unit>
         <trans-unit id="PageExtension 1219073203 - Control 1529086748 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Specifies the percentage by which the ordered quantity is allowed to be exceeded.</source>
@@ -157,7 +157,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 1411328524 - Action 2727351743 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup Lines</source>
-          <target>Over-/Onderweergave Setup Lijnen</target>
+          <target>Over-/onderlevering Setup Lijnen</target>
         </trans-unit>
         <trans-unit id="PageExtension 1411328524 - Control 30164623 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Marks this document line as closed, reducing any outstanding quantities to zero.</source>
@@ -169,7 +169,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 1580237547 - Action 1516721060 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup</source>
-          <target>Over-/Onderweergave Setup</target>
+          <target>Over-/Onderlevering Setup</target>
         </trans-unit>
         <trans-unit id="PageExtension 1702453974 - Control 30164623 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Marks this document line as closed, reducing any outstanding quantities to zero.</source>
@@ -189,7 +189,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 2217934164 - Action 1516721060 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup</source>
-          <target>Over-/Onderweergave Setup</target>
+          <target>Over-/Onderlevering Setup</target>
         </trans-unit>
         <trans-unit id="PageExtension 2855630781 - Action 1516721060 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Executes the "Over-/Underdelivery Setup" action.</source>
@@ -197,7 +197,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 2855630781 - Action 1516721060 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup</source>
-          <target>Over-/Onderweergave Setup</target>
+          <target>Over-/Onderlevering Setup</target>
         </trans-unit>
         <trans-unit id="PageExtension 304844313 - Action 2727351743 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Shows all currently configured over-/underdelivery setup lines that are applicable to the selected document line.</source>
@@ -205,7 +205,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 304844313 - Action 2727351743 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup Lines</source>
-          <target>Over-/Onderweergave Setup Lijnen</target>
+          <target>Over-/Onderlevering Setup Lijnen</target>
         </trans-unit>
         <trans-unit id="PageExtension 304844313 - Control 30164623 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Marks this document line as closed, reducing any outstanding quantities to zero.</source>
@@ -217,7 +217,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 3132163054 - Action 2727351743 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup Lines</source>
-          <target>Over-/Onderweergave Setup Lijnen</target>
+          <target>Over-/Onderlevering Setup Lijnen</target>
         </trans-unit>
         <trans-unit id="PageExtension 3132163054 - Control 30164623 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Marks this document line as closed, reducing any outstanding quantities to zero.</source>
@@ -229,7 +229,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 3324418375 - Action 1516721060 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup</source>
-          <target>Over-/Onderweergave Setup</target>
+          <target>Over-/Onderlevering Setup</target>
         </trans-unit>
         <trans-unit id="PageExtension 3493327398 - Action 1516721060 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Executes the "Over-/Underdelivery Setup" action.</source>
@@ -237,7 +237,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 3493327398 - Action 1516721060 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup</source>
-          <target>Over-/Onderweergave Setup</target>
+          <target>Over-/OnderleveringSetup</target>
         </trans-unit>
         <trans-unit id="PageExtension 3962114992 - Action 1516721060 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Executes the "Over-/Underdelivery Setup" action.</source>
@@ -245,7 +245,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 3962114992 - Action 1516721060 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup</source>
-          <target>Over-/Onderweergave Setup</target>
+          <target>Over-/Onderlevering Setup</target>
         </trans-unit>
         <trans-unit id="PageExtension 4084331419 - Control 3447117545 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Delete and Create the Assembly Order on the Sales Order Line according to the flag "Line Closed", for items with policy Assemble-to-Order</source>
@@ -261,7 +261,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 773631907 - Action 2727351743 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup Lines</source>
-          <target>Over-/Onderweergave Setup Lijnen</target>
+          <target>Over-/Onderlevering Setup Lijnen</target>
         </trans-unit>
         <trans-unit id="PageExtension 773631907 - Control 30164623 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Marks this document line as closed, reducing any outstanding quantities to zero.</source>
@@ -277,7 +277,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 942540930 - Action 2727351743 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup Lines</source>
-          <target>Over-/Onderweergave Setup Lijnen</target>
+          <target>Over-/Onderlevering Setup Lijnen</target>
         </trans-unit>
         <trans-unit id="PageExtension 942540930 - Control 30164623 - Property 1295455071" translate="yes" size-unit="char" xml:space="preserve">
           <source>Marks this document line as closed, reducing any outstanding quantities to zero.</source>
@@ -305,7 +305,7 @@
         </trans-unit>
         <trans-unit id="Table 2222465197 - Field 1878130204 - Property 62802879" translate="yes" size-unit="char" xml:space="preserve">
           <source>Overdelivery,Underdelivery</source>
-          <target>Overweergave, Onderweergave</target>
+          <target>Overweergave, Onderlevering</target>
         </trans-unit>
         <trans-unit id="Table 2222465197 - Field 1882905478 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Source No.</source>
@@ -357,7 +357,7 @@
         </trans-unit>
         <trans-unit id="Table 2222465197 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Over-/Underdelivery Setup Line</source>
-          <target>Over-/Onderweergave Setup Lijnen</target>
+          <target>Over-/Onderlevering Setup Lijnen</target>
         </trans-unit>
         <trans-unit id="Table 540494425 - Field 1221660829 - Property 2879900210" translate="yes" size-unit="char" xml:space="preserve">
           <source>Reference</source>
